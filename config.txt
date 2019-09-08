@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=1
-game=play
+owner=527825056860995594
+prefix=K
+game=اول بوت لي 
 stayinchannel=true
 songinstatus=false
-token=NTMyOTM4ODQ4ODA4ODYxNzE5.DxjzfA.Nss_r9BRZ1VEpyeHgketTem5q_o
+token=NjIwMzQ2MjQzNTI0MDY3MzQ4.XXVdDg.srMekV4yEJU3Efcjr6XjIpyVlIg
