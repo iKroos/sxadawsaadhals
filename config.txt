@@ -3,4 +3,4 @@ prefix=K
 game=اول بوت لي 
 stayinchannel=true
 songinstatus=false
-token=NTI3ODI4MTQzMDM4Mzk4NDY1.XXVmYA.o088OVP4M_xMdModYbi9cs_K0a4
+
